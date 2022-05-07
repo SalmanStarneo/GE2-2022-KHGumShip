@@ -17,7 +17,7 @@ public class Fighter : MonoBehaviour
 
     void Update()
     {                
-        text.text = "Health: " + health + "\n" + 
+        text.text ="Player"+"\n"+"Health: " + health + "\n" + 
             
             "Ammo: " + ammo + "\n" +
             "State: " + GetComponent<StateMachine>().currentState.GetType().Name + "\n" +
