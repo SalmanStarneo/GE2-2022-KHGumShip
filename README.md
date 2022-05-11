@@ -21,9 +21,9 @@ The goal of this assignment is to recreate a classic space battle using the game
 12. End
 
 # STORYBOARD
-(https://raw.githubusercontent.com/SalmanStarneo/GE2-2022-KHGumShip/main/Screenshot%202022-05-11%20224719.png)
+(https://raw.githubusercontent.com/SalmanStarneo/GE2-2022-KHGumShip/main/Screenshot%202022-05-11%20224719.png?raw=true)
 #VIDEO
-[![KHGUMSHIP_VideoDisplay_Youtube](https://github.com/SalmanStarneo/GE1CA/blob/main/Screenshot%202021-12-22%20033445.png?raw=true)](https://youtu.be/HVBxYQz96Iw)
+[![KHGUMSHIP_VideoDisplay_Youtube](https://raw.githubusercontent.com/SalmanStarneo/GE2-2022-KHGumShip/main/Screenshot%202022-05-11%20224719.png?raw=true)](https://youtu.be/HVBxYQz96Iw)
 
 
 # Expanding on idea
