@@ -22,6 +22,9 @@ The goal of this assignment is to recreate a classic space battle using the game
 
 # STORYBOARD
 
+#VIDEO
+[![KHGUMSHIP_VideoDisplay_Youtube](https://github.com/SalmanStarneo/GE1CA/blob/main/Screenshot%202021-12-22%20033445.png?raw=true)](https://youtu.be/HVBxYQz96Iw)
+
 
 # Expanding on idea
 If there is time or the project seems a bit empty, I may add in a planets and environment elements and scenery.
@@ -37,3 +40,4 @@ https://github.com/SalmanStarneo/GE1CA
 
 ## Video of what the idea is based on
 [![OdissyTrip_VideoDisplay_Youtube](https://github.com/SalmanStarneo/GE1CA/blob/main/Screenshot%202021-12-22%20033445.png?raw=true)](https://youtu.be/EeSFXZ7Ln60)
+
