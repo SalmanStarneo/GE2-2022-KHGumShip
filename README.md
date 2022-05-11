@@ -20,9 +20,7 @@ The goal of this assignment is to recreate a classic space battle using the game
 11. The Heroes will win and the remaining enemies will fly off away.
 12. End
 
-# STORYBOARD
-(https://raw.githubusercontent.com/SalmanStarneo/GE2-2022-KHGumShip/main/Screenshot%202022-05-11%20224719.png?raw=true)
-#VIDEO
+# STORYBOARD-VIDEO
 [![KHGUMSHIP_VideoDisplay_Youtube](https://raw.githubusercontent.com/SalmanStarneo/GE2-2022-KHGumShip/main/Screenshot%202022-05-11%20224719.png?raw=true)](https://youtu.be/HVBxYQz96Iw)
 
 
