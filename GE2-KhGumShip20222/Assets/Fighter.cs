@@ -9,19 +9,9 @@ public class Fighter : MonoBehaviour
     
     public GameObject bullet;
     public GameObject enemy;
-    public TMPro.TextMeshPro text;
 
     void Start()
     {
     }
 
-    void Update()
-    {                
-        text.text ="Player"+"\n"+"Health: " + health + "\n" + 
-            
-            "Ammo: " + ammo + "\n" +
-            "State: " + GetComponent<StateMachine>().currentState.GetType().Name + "\n" +
-            "Global State: " + GetComponent<StateMachine>().globalState.GetType().Name;
-
-    }
 }

@@ -17,6 +17,12 @@ class PatrolState : State
             owner.transform.position) < 10)
         {
             owner.ChangeState(new DefendState());
+        }else if(Vector3.Distance(
+            owner.GetComponent<Fighter>().enemy.transform.position,
+            owner.transform.position) == 0){
+            owner.ChangeState(new AttackState());
+        }else if(owner.GetComponent<Fighter>().health <= 5){
+            owner.ChangeState(new FindHealth());
         }
     }
 
@@ -104,6 +110,10 @@ public class FleeState : State
             owner.transform.position) > 30)
         {
             owner.ChangeState(new AttackState());
+        }else if(Vector3.Distance(
+            owner.GetComponent<Fighter>().enemy.transform.position,
+            owner.transform.position) > 100){
+            owner.ChangeState(new PatrolState());
         }
     }
     public override void Exit()
