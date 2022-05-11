@@ -1,4 +1,4 @@
-# GE2-2022-KHGumShip
+# GE2-2022-K-H-GumShip(ToffieShip)
 GE2-2021/22 Assignment based on gummie ship gameplay in Kingdom Hearts titles, where you fly the space ship travelling to different worlds facing against enemies such as Heartless and Nobodies
 
 The goal of this assignment is to recreate a classic space battle using the game AI techniques you are learning on the course. Your assignment should tell a story and as much as possible, the behaviours of the ships should be programmed rather than using any built in stuff in Unity. If you dont like sci-fi, then a nature simulation is also cool. Try and avoid Star Wars because it’s been done many times, but if you really want to do Star Wars, you can. I suggest you pick classic sci-fi such as any of the following:
